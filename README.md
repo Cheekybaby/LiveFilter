@@ -11,4 +11,4 @@ It contains 4 files:
 3. pencilSketch.py:- It applies the pencil sketch filter over the frames. It uses the cv2, numpy, and typing libraries. This takes the frame after it is processed by engine.py and selfieSegmentation.py and implements the filter.
 4. main.py:- This file combines all the 3 other files to produce output.
 
-For any other custom input, add the filter file and run it instead of pencilSketch.py.
+For any other custom filter, add the filter file and run it instead of pencilSketch.py.
